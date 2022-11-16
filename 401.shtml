@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="darkreader" content="NO-DARKREADER-PLUGIN" />
+	<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+	<link href="https://ithundxr.dev/css/style.css" rel="stylesheet">
+	<link href="https://ithundxr.dev/css/home.css" rel="stylesheet">
+	<link href="https://ithundxr.dev/css/navbar.css" rel="stylesheet">
+	<meta content="IThundxr" property="og:title" />
+	<meta content="IThundxr's Website" property="og:description" />
+	<meta content="https://ithundxr.dev" property="og:url" />
+	<meta content="https://ithundxr.dev/images/ithundxr.png" property="og:image" />
+	<meta content="#ba132d" data-react-helmet="true" name="theme-color" />
+	<title>401 Unauthorized</title>
+	<style>
+		h1.title {
+			font-family: "Montserrat", sans-serif;
+			font-size: 150px;
+			color: var(--navbar-text-color);
+			margin-top: 10px;
+		}
+	</style>
+</head>
+
+<body>
+	<header id="navbar">
+		<nav class="navbar-container container">
+			<a href="/" class="home-link">
+				<img class="navbar-logo" src="https://ithundxr.dev/images/ithundxr.svg" alt="logo"></img>
+				IThundxr
+			</a>
+		</nav>
+		<script src="https://ithundxr.dev/js/navbar.js"></script>
+	</header>
+	<h1 class="title">401</h1>
+	<p class="info">Unauthorized</span><br /><a href="/" style="color:#aeaee5;text-decoration: underline;">Return
+			Home</a></p>
+	<footer class="footer noselect">
+		<p>&#169; 2022 IThundxr</p>
+	</footer>
+</body>
+<script src="./js/nodarkreader.min.js"></script>
+
+</html>
